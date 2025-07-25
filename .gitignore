@@ -1,0 +1,42 @@
+# Arquivos temporários do R
+.Rhistory
+.RData
+.Ruserdata
+
+# Diretório de projeto RStudio
+.Rproj.user/
+
+# Arquivos gerados por pacotes populares
+.Rproj.user/
+.Renviron
+.Rprofile
+
+# Diretórios de cache
+.Rcache/
+
+# Diretórios de dados, se quiser ignorar (ajuste conforme seu projeto)
+data/
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Arquivos de saída de gráficos, resultados temporários
+*.pdf
+*.png
+*.jpeg
+*.jpg
+*.tiff
+
+# Outros arquivos que não precisam ser versionados
+*.aux
+*.out
+*.toc
+
+# Pacotes compilados
+*.o
+*.so
+*.dll
