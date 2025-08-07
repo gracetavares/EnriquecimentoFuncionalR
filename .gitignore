@@ -14,7 +14,7 @@
 # Diretórios de cache
 .Rcache/
 
-# Diretórios de dados, se quiser ignorar (ajuste conforme seu projeto)
+# Diretórios de dados (não incluído devido a possibilidade publicação)
 data/
 
 # Arquivos temporários do sistema operacional
@@ -40,3 +40,5 @@ Thumbs.db
 *.o
 *.so
 *.dll
+
+
