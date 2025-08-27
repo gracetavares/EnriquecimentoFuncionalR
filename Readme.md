@@ -1,4 +1,4 @@
-# Enriquecimento Funcional 🚀
+# Enriquecimento Funcional  🚀
 
 Este projeto teve como objetivo realizar a análise de enriquecimento funcional em dados genômicos de Cryptococcus neoformans H99 e Mus musculus. Para a análise foram utilizadas as ontologias do Gene ontology e as redes metabólicas do KEGG.  
 
@@ -9,9 +9,11 @@ Este projeto teve como objetivo realizar a análise de enriquecimento funcional 
         - [Dependências](#-dependências)
     - [EnriquecimentoFuncional.R](#enriquecimentofuncionalr)
         - [Dependências](#-dependências-1)
-    - [clusterSemanticaGOrMATSCrypto.R](#clustersemanticagormatscryptor)
+    - [clusterSemanticaGOrMATSCrypto.](#clustersemanticagormatscryptor)
         - [Dependências](#-dependências-2)
 - [Status do projeto](#status-do-projeto)
+- [Citação](#citacao)
+
 
 ## Descrição do projeto
 Os scripts foram construídos em linguagem R e têm como objetivo realizar a análise de enriquecimento funcional em dados genômicos de Cryptococcus neoformans H99 e Mus musculus. Para a análise foram utilizadas as ontologias do Gene ontology (GO) e as redes metabólicas do KEGG. 
