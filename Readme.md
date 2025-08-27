@@ -1,4 +1,4 @@
-# Meu Projeto 🚀
+# Enriquecimento Funcional 🚀
 
 Este projeto teve como objetivo realizar a análise de enriquecimento funcional em dados genômicos de Cryptococcus neoformans H99 e Mus musculus. Para a análise foram utilizadas as ontologias do Gene ontology e as redes metabólicas do KEGG.  
 
