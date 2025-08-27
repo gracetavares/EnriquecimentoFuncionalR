@@ -16,6 +16,7 @@
 
 # Diretórios de dados (não incluído devido a possibilidade publicação)
 data/
+data2/
 
 # Arquivos temporários do sistema operacional
 .DS_Store
@@ -30,6 +31,7 @@ Thumbs.db
 *.jpeg
 *.jpg
 *.tiff
+*.xml
 
 # Outros arquivos que não precisam ser versionados
 *.aux
