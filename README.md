@@ -1,4 +1,4 @@
-**Este script realiza análises de enriquecimento funcional com ontologias do Gene ontology e redes metabólicas cm o KEGG.**
+**Este script realiza análises de enriquecimento funcional com ontologias do Gene ontology e redes metabólicas com o KEGG.**
 
 Versão do R: 4.5.1
 
