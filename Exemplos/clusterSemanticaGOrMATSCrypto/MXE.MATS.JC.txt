@@ -1,0 +1,2 @@
+ID	GeneID	geneSymbol	chr	strand	1stExonStart_0base	1stExonEnd	2ndExonStart_0base	2ndExonEnd	upstreamES	upstreamEE	downstreamES	downstreamEE	ID	IJC_SAMPLE_1	SJC_SAMPLE_1	IJC_SAMPLE_2	SJC_SAMPLE_2	IncFormLen	SkipFormLen	PValue	FDR	IncLevel1	IncLevel2	IncLevelDifference
+0	CNAG_05146	NA	chr4	-	551719	551841	551956	551978	551507	551594	552032	552280	0	18,19	34,26	0	1	171	271	1	1.0	0.456,0.537	0.0,NA	0.497
